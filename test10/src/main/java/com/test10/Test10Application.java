@@ -11,8 +11,11 @@ public class Test10Application {
 		int x=100;
 		boolean isPresent=false;
 		int y=200;
-		char m='a';
-                SpringApplication.run(Test10Application.class, args);
+    char m='a';
+    double z=10.3;
+    boolean isPresent=false;
+		float m=10;
+    SpringApplication.run(Test10Application.class, args);
 	}
 
 }
